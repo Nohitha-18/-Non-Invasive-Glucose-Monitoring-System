@@ -13,6 +13,9 @@ To design a simple and low-cost system that reduces the need for invasive glucos
 ---
 
 ## 📸 Prototype
+⚠️This is a representative/reconstructed image of my prototype for documentation purposes.
+<img width="1046" height="415" alt="non invasive glucometer" src="https://github.com/user-attachments/assets/1841a1d2-6085-48a1-ab18-34f01358ce92" />
+
 
 ---
 
